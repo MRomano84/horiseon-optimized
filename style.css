@@ -24,6 +24,7 @@ header.header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Location and styling of nav bar */
 header.header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -47,6 +48,7 @@ p {
     font-size: 16px;
 }
 
+/* Page's main image */
 div.hero {
     height: 800px;
     width: 100%;
@@ -56,6 +58,7 @@ div.hero {
     background-position: center;
 }
 
+/* 3 main sections of the page */
 section.content {
     width: 75%;
     display: inline-block;
@@ -91,6 +94,7 @@ div.cost {
     color: #ffffff;
 }
 
+/* Aside headings */
 div.lead h3,
 div.brand h3,
 div.cost h3 {
@@ -123,6 +127,7 @@ div.social-media-marketing img {
     max-height: 200px;
 }
 
+/* Section headings */
 div.search-engine-optimization h2,
 div.online-reputation-management h2,
 div.social-media-marketing h2 {

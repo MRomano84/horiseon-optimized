@@ -83,6 +83,7 @@ aside.benefits {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #ffffff;
     background-color: #2589bd;
+    text-align: center;
 }
 
 div.lead
@@ -91,19 +92,10 @@ div.cost {
     margin-bottom: 32px;
 }
 
-.lead h3 {
+div.lead h3
+div.brand h3
+div.cost h3 {
     margin-bottom: 10px;
-    text-align: center;
-}
-
-.brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
 }
 
 .lead img {
